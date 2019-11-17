@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae545ad5-22ae-4215-b959-99321e5ae2dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AndroidApp-week2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidApp-week3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena (copy)/app/src/main/res/drawable/splashing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/cararena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/chevrolet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/splashing.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/drawable/w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/font/aladin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/font/bad_script.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/font/cabin_bold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarArena/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.idea/dictionaries/moringa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/androidTest/java/com/marvin/cararenaa/car/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/androidTest/java/com/marvin/cararenaa/car/MainActivityInstrumentationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/androidTest/java/com/marvin/cararenaa/car/RestaurantListActivityInstrumentationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/assets/fonts/CaviarDreams.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/assets/fonts/GrandHotel-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/assets/fonts/Pacifico.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/assets/fonts/PlayfairDisplay-Italic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/assets/fonts/PlayfairDisplay-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/assets/fonts/Walkway_SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/SavedCarDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/adapters/CararenaAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/adapters/CararenaListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/adapters/CararenaPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/adapters/FirebaseCararenaListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/adapters/FirebaseViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/models/Carzarena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/services/MarketCheckService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/CararenaDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/CararenaDetailFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/CararenaListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/CreateAccountActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/FullscreenActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/ProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/ui/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/util/ItemTouchHelperAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/util/ItemTouchHelperViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/util/OnRestaurantSelectedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/util/OnStartDragListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/java/com/marvin/cararenaa/util/SimpleItemTouchHelperCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/animator/drag_scale_off.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/animator/drag_scale_on.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/address4_216563.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/app_zalogo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/baseline_camera_alt_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/baseline_reorder_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/baseline_search_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/baseline_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/cararena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/chevrolet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/food_dish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/forward.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/frame6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/icon_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/if_food_49741.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/if_search_magnifying_glass_find_10385724.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/job.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/jobs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/loc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/zalogo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/logoo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/myrestaurant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/phone_326696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/roundb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/rounded_button_solid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/rounded_button_transparent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/drawable/website_103800.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/font/black_ops_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_car.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_cararena.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_cararena_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_cars.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_create_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/car_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/car_list_item_drag.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/fragment_cararena_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/layout/savedcars.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/menu/menu_photo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/menu/menu_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/raw/burnout.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/raw/song.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/test/java/com/marvin/cararenaa/car/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/test/java/com/marvin/cararenaa/car/MainActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/app/src/test/java/com/marvin/cararenaa/car/RestaurantListActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cars-Arena-weekfour/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carzz-master/app/src/main/res/drawable/custom_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/hair_salon.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/java/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/java/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/java/Stylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/java/VelocityTemplateEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/java/spark/template/velocity/VelocityTemplateEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/public/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/public/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/clients.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/form-client.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/form.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/index.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/layout.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/results.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/stylist.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/stylists.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/main/resources/templates/updateClient.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/test/java/ClientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/test/java/DatabaseRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/test/java/ServerRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HairSalon-master (copy)/src/test/java/StylistTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/es2015-polyfills.1e04665e16f944715fd2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/main.9c036df94180d0c10f4d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/polyfills.8bbb231b43165d65d357.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/runtime.26209474bfa8dc87a77c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/dist/Goals/styles.11c8b686fff55d32d566.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/alert-service/alerts.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/alert-service/alerts.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/date-count.pipe.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/date-count.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-details/goal-details.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-details/goal-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-details/goal-details.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-details/goal-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-form/goal-form.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-form/goal-form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-form/goal-form.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal-form/goal-form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal/goal.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal/goal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal/goal.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goal/goal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goals/goal.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/goals/goal.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/quote-class/quote.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/quote-class/quote.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/quote-http/quote-request.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/quote-http/quote-request.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/strikethrough.directive.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/app/strikethrough.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Goals-master/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/hair_salon.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/java/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/java/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/java/Stylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/java/VelocityTemplateEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/Useful_Resources.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/addons/datatables-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/addons/datatables-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/addons/datatables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/addons/datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/addons/directives.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/addons/directives.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/modules/animations-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/modules/animations-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/lightbox/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/lightbox/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/lightbox/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/overlays/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/svg/arrow_left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/img/svg/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/addons/datatables-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/addons/datatables-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/addons/datatables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/addons/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/addons/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/mdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/mdb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/default-file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/enhanced-modals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/forms-free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/modules/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/_custom-skin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/_custom-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/_custom-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/addons/_datatables-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/addons/_datatables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/addons/_directives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_masks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/_waves.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/bootstrap/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/core/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_animations-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_carousels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_depreciated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_loader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_msc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_steppers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/_treeview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/modules/animations-extended/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/free/modules/animations-extended/animations-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/mdb.lite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/MDN/scss/mdb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/images/group1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/images/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/images/male.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/public/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/templates/clients.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/templates/index.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/templates/layout.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/templates/stylists.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/main/resources/templates/updateClient.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/test/java/ClientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/test/java/DatabaseRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/HairSalon/src/test/java/StylistTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/firstletter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/friend-letter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/pingpong/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/pingpong/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/pingpong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/pingpong/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/JAVA/pingpong2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Ping Pong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/es2015-polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/es2015-polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/styles.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MORINGA/Quotes (copy)/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master (copy)/MobileApp-master (copy).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_alpha08_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_rc01_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_alpha05_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_alpha05_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_beta01_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_rc01_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_0_0_beta01_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_0_beta1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_0_beta1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_alpha01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_core_core_1_1_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_alpha08_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_alpha01_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_alpha01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_2_0_alpha01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_alpha05_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_test_runner_1_2_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_transition_transition_1_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_alpha02_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__backport_util_concurrent_backport_util_concurrent_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__classworlds_classworlds_1_1_alpha_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_almworks_sqlite4java_sqlite4java_0_282_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_exifinterface_27_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_baoyz_swipemenulistview_library_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_16_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_drive_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_drive_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_flags_16_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_games_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_games_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_identity_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_identity_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_location_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_location_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_16_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_nearby_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_nearby_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_places_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_places_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_plus_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_plus_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_16_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_common_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_common_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_license_12_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_alpha06_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_auto_auto_common_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_auto_service_auto_service_1_0_rc4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_16_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_auth_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_common_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_core_16_0_9_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_iid_17_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_17_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_firebase_firebase_storage_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_guava_guava_27_0_1_jre_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_ibm_icu_icu4j_53_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_jakewharton_butterknife_10_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_10_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_4_0_0_alpha02_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_squareup_okio_okio_2_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__junit_junit_4_13_beta_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__nekohtml_nekohtml_1_9_6_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__nekohtml_xercesMinimal_1_9_6_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_ant_ant_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_ant_ant_launcher_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_ant_tasks_2_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_artifact_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_artifact_manager_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_error_diagnostics_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_model_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_plugin_registry_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_profile_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_project_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_repository_metadata_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_maven_settings_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_file_1_0_beta_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_http_shared_1_0_beta_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_checkerframework_checker_qual_2_5_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_codehaus_plexus_plexus_interpolation_1_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_codehaus_plexus_plexus_utils_1_5_15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_31_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_31_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_ow2_asm_asm_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_ow2_asm_asm_analysis_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_ow2_asm_asm_commons_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_ow2_asm_asm_tree_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_ow2_asm_asm_util_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_parceler_parceler_api_1_1_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_annotations_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_junit_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_pluginapi_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_plugins_maven_dependency_resolver_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_resources_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_robolectric_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_sandbox_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_shadowapi_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_shadows_framework_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_utils_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/libraries/Gradle__org_robolectric_utils_reflector_4_3_beta_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileApp-master/MobileApp-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieDb-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/androidTest/java/com/epicodus/myrestaurant/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/debug/res/values/google_maps_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/assets/fonts/CaviarDreams.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/assets/fonts/GrandHotel-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/assets/fonts/Pacifico.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/assets/fonts/PlayfairDisplay-Italic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/assets/fonts/PlayfairDisplay-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/assets/fonts/Walkway_SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/java/com/epicodus/myrestaurant/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/java/com/epicodus/myrestaurant/MapsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/java/com/epicodus/myrestaurant/MoodDialogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/java/com/epicodus/myrestaurant/MyRestaurantAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/java/com/epicodus/myrestaurant/RestaurantActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/java/com/epicodus/myrestaurant/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/forward.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/frame6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/lgroup1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/l2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/load.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/pre.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/preloader.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/splash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/drawable/splashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/layout/activity_maps.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/layout/activity_restaurant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/layout/fragment_mood_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/raw/song.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/release/res/values/google_maps_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/test/java/com/epicodus/myrestaurant/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/app/src/test/java/com/epicodus/myrestaurant/MainActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey Restaurant/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nipsey/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NipseyRestaurant/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-10_picasso/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-10_picasso/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-19_user_details_validation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-19_user_details_validation/gradle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-20_Gestures_Animations/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-22.2_java_animations/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/SavedCarDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/adapters/CararenaAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/adapters/CararenaListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/adapters/CararenaPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/adapters/FirebaseCararenaListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/adapters/FirebaseViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/models/Carzarena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/services/MarketCheckService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/ui/CararenaDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/ui/CararenaDetailFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/ui/CararenaListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/ui/FullscreenActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/java/com/marvin/cararenaa/ui/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/animator/drag_scale_off.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/animator/drag_scale_on.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/app_zalogo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/baseline_camera_alt_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/baseline_reorder_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/baseline_search_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/baseline_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/cararena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/chevrolet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/forward.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/frame6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/icon_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/job.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/jobs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/loc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/zalogo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/logoo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/roundb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/rounded_button_solid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/rounded_button_transparent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/drawable/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/font/black_ops_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/raw/burnout.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/raw/song.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant-product/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/androidTest/java/com/marvin/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/java/com/marvin/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/app/src/test/java/com/marvin/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/MyApplication/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/androidTest/java/com/marvin/cararena/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/java/com/marvin/cararena/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_menu_manage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_menu_send.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_menu_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/app/src/test/java/com/marvin/cararena/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-design-library-master/cararena/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase-authentication-tutorial-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase-authentication-tutorial-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase-authentication-tutorial-master/app/src/main/java/com/marvin/cararena/ui/Another.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase-authentication-tutorial-master/app/src/main/res/layout/activity_another.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase-authentication-tutorial-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l/.idea/modules/hnm_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l/.idea/modules/hnm_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../marketplace-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master (copy)/app/src/main/res/drawable/forward.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master (copy)/app/src/main/res/font/alfa_slab_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master (copy)/app/src/main/res/font/black_ops_one.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master (copy)/app/src/main/res/font/cabin_sketch_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master (copy)/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master (copy)/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/.idea/restaurantAndroidApp-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/app/src/androidTest/java/com/epicodus/myrestaurant/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/app/src/main/res/drawable/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/app/src/main/res/drawable/splashing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/app/src/main/res/font/autour_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp-master/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurantAndroidApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sdk-android-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/bin/public/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/Endangered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/Sighting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/classes/java/main/spark/template/velocity/VelocityTemplateEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/Useful_Resources.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/addons/datatables-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/addons/datatables-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/addons/datatables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/addons/datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/addons/directives.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/addons/directives.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/modules/animations-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/modules/animations-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/lightbox/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/lightbox/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/lightbox/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/overlays/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/svg/arrow_left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/img/svg/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/addons/datatables-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/addons/datatables-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/addons/datatables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/addons/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/addons/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/mdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/mdb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/default-file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/enhanced-modals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/forms-free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/modules/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/_custom-skin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/_custom-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/_custom-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/addons/_datatables-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/addons/_datatables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/addons/_directives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_masks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/_waves.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/bootstrap/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/core/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_animations-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_carousels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_depreciated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_loader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_msc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_steppers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/_treeview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/modules/animations-extended/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/free/modules/animations-extended/animations-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/mdb.lite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/MDN/scss/mdb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/images/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/images/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/public/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/animal-form.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/animal.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/endangered-animal.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/index.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/layout.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/sightings.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/build/resources/main/templates/success.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/Animals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/Endangered.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/Sighting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/java/VelocityTemplateEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/Useful_Resources.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/addons/datatables-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/addons/datatables-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/addons/datatables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/addons/datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/addons/directives.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/addons/directives.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/modules/animations-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/modules/animations-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/lightbox/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/lightbox/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/lightbox/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/overlays/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/svg/arrow_left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/img/svg/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/addons/datatables-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/addons/datatables-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/addons/datatables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/addons/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/addons/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/mdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/mdb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/default-file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/enhanced-modals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/forms-free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/modules/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/_custom-skin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/_custom-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/_custom-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/addons/_datatables-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/addons/_datatables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/addons/_directives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_masks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/_waves.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/bootstrap/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/core/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_animations-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_carousels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_depreciated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_loader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_msc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_steppers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/_treeview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/modules/animations-extended/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/free/modules/animations-extended/animations-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/mdb.lite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/MDN/scss/mdb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/images/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/images/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/main/resources/public/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/test/java/AnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/test/java/DatabaseRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/test/java/EndangeredTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/src/test/java/SightingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/wildlife.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife/wildlife.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yoga-master/.idea/encodings.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="576" />
+    <option name="y" value="88" />
+    <option name="width" value="750" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae545ad5-22ae-4215-b959-99321e5ae2dc" name="Default Changelist" comment="" />
+      <created>1568887976405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568887976405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1374" height="736" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32936803" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
